@@ -1,0 +1,218 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Arial";
+}
+
+body {
+  background-color: #f0f0f0;
+}
+
+/*Arquivo header.php*/
+header {
+  background-color: #ffffff;
+}
+.menu ul li a {
+  text-decoration: none;
+  color: #1d653b;
+  padding: 20px 16px;
+}
+
+.menu ul li a:hover {
+  background-color: #1d653b;
+  color:white;
+}
+
+.menu ul li {
+  display: inline-block;
+  padding: 20px 16px;
+  font-size: 15px;
+}
+
+.menu ul li:hover {
+  background-color: #1d653b;
+  color:white;
+}
+
+#logout {
+  float: right;
+}
+
+.sec1 {
+  background-image: url("cotrijornal.JPG");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+
+/*Fim arquivo header.php*/
+
+/*Arquivo cadmaq.php*/
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+h4 {
+  color:#418764;
+  margin: 10px 0px;
+  font-size: 30px;
+}
+input {
+  font-size: 15px;
+  width: 100%;
+  padding: 1em;
+  line-height: 1.4;
+  background-color: #f9f9f9;
+  border: 1px solid #e5e5e5;
+  border-radius: 3px;
+  -webkit-transition: 0.35s ease-in-out;
+  -moz-transition: 0.35s ease-in-out;
+  -o-transition: 0.35s ease-in-out;
+  transition: 0.35s ease-in-out;
+  transition: all 0.35s ease-in-out;
+}
+input:focus {
+  outline: 0;
+  border-color: #418764;
+}
+input:focus {
+  color:#418764;
+}
+input:focus {
+  border-right-color: #1d653b;
+}
+
+.input-group {
+  margin-bottom: 1em;
+  zoom: 1;
+}
+.input-group:before,
+.input-group:after {
+  content: "";
+  display: table;
+}
+.input-group:after {
+  clear: both;
+}
+.container {
+  max-width: 38em;
+  padding: 1em 3em 2em 3em;
+  margin-bottom: 5em;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  border-radius: 4.2px;
+  box-shadow: 0px 3px 10px -2px rgba(0, 0, 0, 0.2);
+}
+.row {
+  zoom: 1;
+}
+.row:before,
+.row:after {
+  content: "";
+  display: table;
+}
+.row:after {
+  clear: both;
+}
+.row button {
+  font-weight: 600;
+  font-size: 15px;
+  padding: 10px 20px;
+  border:2px solid transparent;
+  border-radius: 3px;
+  background-color: #418764;
+  color: white;
+}
+
+.row button:hover {
+  border:2px solid #418764;
+  background-color: white;
+  color: #418764;
+}
+
+/*Fim do arquivo cadmaq.php*/
+
+/*sections arquivo index.php*/
+
+
+.sec23 {
+  background-color: white;
+  color: black;
+  font-weight: 100;
+  padding: 30px;
+
+}
+
+.sec23 p{
+  width: 80%;
+}
+
+.sec23 h1{
+  margin: 2%;
+  color:#1d653b;
+}
+
+
+footer p{
+  background-color:#1d653b;
+  color: white;
+  padding: 20px;
+}
+
+/*fim da sections arquivo index.php*/
+/*sections arquivo visumaq.php*/
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+.tabela tr th {
+  color:#418764;
+  width: 20em;
+  height: 2em;
+  font-size: 20px;
+  text-align: left;
+}
+
+.tabela td {
+  height: 2em;
+}
+
+.tabela {
+  max-width: 78em;
+  padding: 1em 3em 2em 3em;
+  margin-bottom: 5em;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  border-radius: 4.2px;
+  box-shadow: 0px 3px 10px -2px rgba(0, 0, 0, 0.2);
+}
+
+.tabela td{
+  text-align: left;
+  max-width: 78em;
+  padding: 1em 1em 1em 1em;
+  margin-bottom: 5em;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  border-radius: 4.2px;
+  box-shadow: 0px 3px 10px -2px rgba(0, 0, 0, 0.2);
+}
+
+.tabela td:hover{
+  background-color: #1d653b;
+  color: white;
+}
+
+#name_tab {
+  margin: 2%;
+  color: #1d653b;
+}
+
+/*fim da sections arquivo visumaq.php*/
