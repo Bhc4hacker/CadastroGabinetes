@@ -12,6 +12,7 @@
      ?>
 
   <section class="sec23">
+    
     <center>
       <h1>Quem somos</h1>
       <p>Nulla finibus dictum erat sit amet molestie. Sed nec ante elit. Nunc suscipit ipsum non tortor fermentum rhoncus. Nam et molestie diam. Proin ut enim leo. Nam aliquam sed lacus vel semper. Praesent consequat nibh in venenatis consectetur. </p>
